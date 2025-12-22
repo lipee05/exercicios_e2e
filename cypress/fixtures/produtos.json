@@ -1,0 +1,26 @@
+[
+        {
+        "nomeProduto": "Stark Fundamental Hoodie",
+        "tamanho": "S",
+        "cor": "Blue",
+        "quantidade": 1
+    },
+    {
+        "nomeProduto": "Prima Compete Bra Top",
+        "tamanho": "L",
+        "cor": "Blue",
+        "quantidade": 1  
+    },
+    {
+        "nomeProduto": "Sparta Gym Tank",
+        "tamanho": "XL",
+        "cor": "Green",
+        "quantidade": 1  
+    },
+    {
+        "nomeProduto": "Orestes Yoga Pant",
+        "tamanho": "36",
+        "cor": "Black",
+        "quantidade": 1  
+    }
+]
