@@ -1,6 +1,5 @@
 // <reference types="cypress" />
 import pedidoCompleto from '../support/page_objects/pedido.page'
-import { faker } from '@faker-js/faker';
 
 context('Exercicio - Testes End-to-end - Fluxo de pedido', () => {
   /*  Como cliente 
